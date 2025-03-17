@@ -1,4 +1,3 @@
-# KULAK_informatieoverdracht-en-verwerking
+# Informatie-overdracht en -verwerking
 
-Uitgetypte oefeningen van het vak _Informatie-overdracht en -verwerking_ aan KU Leuven campus Kulak Kortrijk.
-Zie de repo [`KUL_examens`](https://github.com/vanschependom/KUL_examens) voor het examen.
+Additional exercises from the course _Informatie-overdracht en -verwerking_ (2nd year Computer Science @ KU Leuven Kulak) and their full solutions. Everything was typed out in LaTeX and the end solutions are correct.
